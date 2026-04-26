@@ -29,7 +29,7 @@ The default license for any CTM projects is [AGPLv3 license](https://github.com/
 All servers are created with Bun and Typescript.
 
 > [!IMPORTANT]  
-> ### Coach's Time Machine servers are **not designed for production use.**
+> ### Coach's Time Machine servers are not designed for production use.
 > 
 > These servers are designed to be basic enough get builds working again.
 >
