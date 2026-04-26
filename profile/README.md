@@ -8,7 +8,9 @@ Coach's Time Machine (abbreviated CTM) is a collection of open source patches, u
 
 Naming scheme follows the formula `Type.Name` (example: `server.2017E`).
 
-The default license for any CTM projects is [AGPLv3 license](https://github.com/CoachsTimeMachine/.github/blob/main/LICENSE).
+<sup>Yeah, i'm following the Roblox client naming scheme for my releases. I will still refer to Rec Room builds by their proper release. It's easier to call server releases E, M, L.</sup>
+
+The default license for any CTM projects is [AGPLv3 license](https://github.com/CoachsTimeMachine/.github/blob/main/LICENSE) unless otherwise specified.
 
 # Patches
 
