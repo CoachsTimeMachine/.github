@@ -26,12 +26,12 @@ The default license for any CTM projects is [AGPLv3 license](https://github.com/
 
 # Server
 
-All servers are created with Bun and Typescript.
+All servers are created with Bun and Typescript. Data is sourced from client decompilations.
 
 > [!IMPORTANT]  
 > ### Coach's Time Machine servers are not designed for production use.
 > 
-> These servers are designed to be basic enough get builds working again.
+> These servers are designed to be basic enough get builds working again. Every server is designed to work for multiple connections though (this aint OpenRec or RecJS).
 >
 > The ideal use for CTM servers is personal and small scale usage (like with friends). You can also use it as a "template" to build your own servers from.
 > 
