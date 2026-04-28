@@ -12,6 +12,16 @@ Naming scheme follows the formula `Type.Name` (example: `server.2017E`).
 
 The default license for any CTM projects is [AGPLv3 license](https://github.com/CoachsTimeMachine/.github/blob/main/LICENSE) unless otherwise specified.
 
+# The Team
+
+### stuartt ([RealMCoded](https://github.com/RealMCoded))
+
+*"Back in January 2023 I created Rec.js, a FOSS replacement for OpenRec - designed for tinkering. In May 2023, I created LunarRec, another FOSS replacement for OpenRecLive - designed as a live server. 3 years later, I'm starting the Coach's Time Machine project to celebrate classic Rec Room. And yes, it's all FOSS."*
+
+<sup>FOSS = Free Open Source Software</sup>
+
+<sub>at the moment i am the only team member... sob</sub>
+
 # Patches
 
 | Name | Description |
@@ -24,9 +34,9 @@ The default license for any CTM projects is [AGPLv3 license](https://github.com/
 |------|-------------|
 | [PhotonPatcher](https://github.com/CoachsTimeMachine/util.photon-patcher) | In-browser Photon PUN and Voice patcher. |
 
-# Server
+# Servers
 
-All servers are created with Bun and Typescript. Data is sourced from client decompilations.
+All servers are created with Bun and Typescript. Data is sourced from personal client decompilations (no stealing here!).
 
 > [!IMPORTANT]  
 > ### Coach's Time Machine servers are not designed for production use.
@@ -55,20 +65,21 @@ Dates may not 100% line up with their [Steam announcement](https://store.steampo
 
 | Date | Manifest | Server | Notes |
 | ---- | -------- |--------|-------|
-| 28 June 2016 | 4180590405597713716 | N/A | † |
-| 29 June 2016 | 7926661550074548930 | N/A | † |
-| 30 June 2016 | 5937396277352677720 | N/A | † |
-| 6 July 2016 | 5234716332756009057 | N/A | † |
-| 8 July 2016 | 675319925160172554 | N/A | † |
-| 13 July 2016 | 2793222674831519927 | N/A | † |
-| 20 July 2016 | 1105116417500379163 | N/A | † |
-| 22 July 2016 | 2224171743476188630 | N/A | † |
-| 27 July 2016 | 797475839536905254 | N/A | † |
-| 29 July 2016 | 3601417244482181468 | N/A | † |
-| 2 August 2016 | 356844315186453937 | N/A | † |
-| 11 August 2016 | 20170328095030222 | CTM-2016E | |
+| 28 June 2016 | 4180590405597713716 | N/A | † †† |
+| 29 June 2016 | 7926661550074548930 | N/A | † †† |
+| 30 June 2016 | 5937396277352677720 | N/A | † †† |
+| 6 July 2016 | 5234716332756009057 | N/A | † †† |
+| 8 July 2016 | 675319925160172554 | N/A | † †† |
+| 13 July 2016 | 2793222674831519927 | N/A | † †† |
+| 20 July 2016 | 1105116417500379163 | N/A | † †† |
+| 22 July 2016 | 2224171743476188630 | N/A | † †† |
+| 27 July 2016 | 797475839536905254 | N/A | † †† |
+| 29 July 2016 | 3601417244482181468 | N/A | † †† |
+| 2 August 2016 | 356844315186453937 | N/A | † †† |
+| 11 August 2016 | 20170328095030222 | TBA | †† |
 
-<sub>† Pre-RecNet, only requires Photon patch. MOTD patch optional (http://www.againstgrav.com/motd in `IntroActivityManager`)</sub>
+<sub>† Pre-RecNet, only requires Photon patch.<br>
+†† MOTD patch optional (http://www.againstgrav.com/motd in `IntroActivityManager`)</sub>
 
 </details>
 
