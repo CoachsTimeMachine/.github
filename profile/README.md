@@ -24,11 +24,15 @@ The default license for any CTM projects is [AGPLv3 license](https://github.com/
 
 # Patches
 
+BepInEx patches, written in C#.
+
 | Name | Description |
 |------|-------------|
-| [DebugCameraControl](https://github.com/CoachsTimeMachine/patch.debugcameracontrol) | Small patch for early Rec Room builds to allow DebugCameraControl ("screen mode") inputs. |
+| [DebugCameraControl](https://github.com/CoachsTimeMachine/patch.debugcameracontrol) | Small patch for pre-Screen Mode Rec Room builds to enable DebugCameraControl ("screen mode"). |
 
 # Utils
+
+Misc. Rec Room related tools.
 
 | Name | Description |
 |------|-------------|
@@ -36,7 +40,7 @@ The default license for any CTM projects is [AGPLv3 license](https://github.com/
 
 # Servers
 
-All servers are created with Bun and Typescript. Data is sourced from personal client decompilations (no stealing here!).
+Servers are created with Typescript and Bun. 
 
 > [!IMPORTANT]  
 > ### Coach's Time Machine servers are not designed for production use.
