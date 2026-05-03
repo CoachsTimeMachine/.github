@@ -12,7 +12,7 @@ Naming scheme follows the formula `Type.Name` (example: `server.2017E`).
 
 The default license for any CTM projects is [AGPLv3 license](https://github.com/CoachsTimeMachine/.github/blob/main/LICENSE) unless otherwise specified.
 
-# The Team
+## The Team
 
 ### stuartt ([RealMCoded](https://github.com/RealMCoded))
 
@@ -21,6 +21,12 @@ The default license for any CTM projects is [AGPLv3 license](https://github.com/
 <sup>FOSS = Free Open Source Software</sup>
 
 <sub>at the moment i am the only team member... sob</sub>
+
+## Motivation
+
+Compared to LittleBigPlanet server projects (the two most popular ones are open source), Rec Room server projects are usually always closed source. As someone who believes in open source software, I want to see that change.
+
+CTM won't be the best, we aren't claiming the best, but I beleive this will be a great "first step" in open sourcing information, without taking from other projects.
 
 # Patches
 
