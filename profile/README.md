@@ -30,11 +30,11 @@ CTM won't be the best, we aren't claiming the best, but I beleive this will be a
 
 # Patches
 
-BepInEx patches, written in C#.
+Patches for BepInEx or MelonLoader, written in C#.
 
-| Name | Description |
-|------|-------------|
-| [DebugCameraControl](https://github.com/CoachsTimeMachine/patch.debugcameracontrol) | Small patch for pre-Screen Mode Rec Room builds to enable DebugCameraControl ("screen mode"). |
+| Name | Loader | Description |
+|------|--------|-------------|
+| [DebugCameraControl](https://github.com/CoachsTimeMachine/patch.debugcameracontrol) | BepInEx | Small patch for pre-Screen Mode Rec Room builds to enable DebugCameraControl ("screen mode"). |
 
 # Utils
 
