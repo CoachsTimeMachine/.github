@@ -1,0 +1,61 @@
+<div align="center">
+<h2>This document is a work in progress. Stay tuned!</h2>
+<img src="https://avatars.githubusercontent.com/u/274413706" width="128" height="128">
+<h1>Coach's Time Machine - Server compatability list</h1>
+</div>
+
+Detailed breakdown for current CTM support. If your build isn't listed here, it probably isnt supported yet.
+
+In cases of reuploaded builds, the **latest revision** is used.
+
+Dates may not 100% line up with their [Steam announcement](https://store.steampowered.com/news/app/471710).
+
+---
+
+> [!CAUTION]
+> **2016 servers are insecure!!!** Do not host any servers from this version publicly.
+
+<details>
+<summary>2016 releases</summary>
+
+| Date | Manifest | Server | Notes |
+| ---- | -------- |--------|-------|
+| 28 June 2016 | 4180590405597713716 | N/A | † †† |
+| 29 June 2016 | 7926661550074548930 | N/A | † †† |
+| 30 June 2016 | 5937396277352677720 | N/A | † †† |
+| 6 July 2016 | 5234716332756009057 | N/A | † †† |
+| 8 July 2016 | 675319925160172554 | N/A | † †† |
+| 13 July 2016 | 2793222674831519927 | N/A | † †† |
+| 20 July 2016 | 1105116417500379163 | N/A | † †† |
+| 22 July 2016 | 2224171743476188630 | N/A | † †† |
+| 27 July 2016 | 797475839536905254 | N/A | † †† |
+| 29 July 2016 | 3601417244482181468 | N/A | † †† |
+| 2 August 2016 | 356844315186453937 | N/A | † †† |
+| 11 August 2016 | 20170328095030222 | TBA | †† |
+
+<sub>† Pre-RecNet, only requires Photon patch.<br>
+†† MOTD patch optional (http://www.againstgrav.com/motd in `IntroActivityManager`)</sub>
+
+</details>
+
+> [!CAUTION]
+> **Early 2017 builds are insecure!!!** Do not host any servers from versions marked with ⚠️ publicly.
+
+<details>
+<summary>2017 releases</summary>
+
+| Date | Manifest | Server | Notes |
+| ---- | -------- |--------|-------|
+| TBA  | TBA      | TBA    | ⚠️    |
+
+<sub>⚠️ Insecure. Don't host publicly.</sub>
+
+</details>
+<details>
+<summary>2018 releases</summary>
+  
+| Date | Manifest | Server | Notes |
+| ---- | -------- |--------|-------|
+| TBA  | TBA      | TBA    |       |
+
+</details>
