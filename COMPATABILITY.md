@@ -12,6 +12,8 @@ Dates may not 100% line up with their [Steam announcement](https://store.steampo
 
 ---
 
+## 2016
+
 > [!CAUTION]
 > **2016 servers are insecure!!!** Do not host any servers from this version publicly.
 
@@ -38,6 +40,8 @@ Dates may not 100% line up with their [Steam announcement](https://store.steampo
 
 </details>
 
+## 2017
+
 > [!CAUTION]
 > **Early 2017 builds are insecure!!!** Do not host any servers from versions marked with ⚠️ publicly.
 
@@ -51,6 +55,9 @@ Dates may not 100% line up with their [Steam announcement](https://store.steampo
 <sub>⚠️ Insecure. Don't host publicly.</sub>
 
 </details>
+
+## 2018
+
 <details>
 <summary>2018 releases</summary>
   
