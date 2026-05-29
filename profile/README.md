@@ -46,7 +46,9 @@ Misc. Rec Room related tools.
 
 # Servers
 
-Servers are created with Typescript and Bun. 
+Servers are created with Typescript and [Bun](http://bun.com/). I am aiming for servers to be as period correct as possible (e.g. item unlocking, progression, registrations*) with as many features working again (e.g. custom rooms in mid-2017).
+
+<sup>\* emails are not sent and registations auto complete after a few seconds.</sup>
 
 A compatability list for servers can be found [here (COMPATABILITY.md).](https://github.com/CoachsTimeMachine/.github/blob/main/COMPATABILITY.md)
 
